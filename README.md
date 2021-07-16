@@ -1,1 +1,1 @@
-# Alzheimer_Prediction
+# Liver Disease Prediction
